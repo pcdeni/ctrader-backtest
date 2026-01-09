@@ -1,0 +1,9 @@
+{
+  "test": "Test E - Swap Timing",
+  "symbol": "EURUSD",
+  "swap_events_detected": 2,
+  "duration_hours": 48,
+  "broker": "Fusion Markets Pty Ltd",
+  "account": 323831,
+  "position_ticket": 2
+}
